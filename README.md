@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Ade-Sampson
+- 👀 I’m interested in Python projects and trying to find a place where I can commit to opensource tools...
+- 🌱 I’m currently refocusing my efforts on primarily coding in Python and C++ ...
+- 💞️ I’m looking to collaborate on any and anything...
+- 📫 How to reach me adesampson6@gmail.com!!!
+<!---
+Ade-Sampson/Ade-Sampson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
